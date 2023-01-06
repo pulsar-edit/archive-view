@@ -1,3 +1,5 @@
+# This Repo is now Archived under Pulsar-Edit as it's now bundled within the Core Editor [PR#290](https://github.com/pulsar-edit/pulsar/pull/290)
+
 # Archive view package
 
 Adds support for browsing archive files in Pulsar with the following extensions:
